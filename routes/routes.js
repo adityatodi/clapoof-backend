@@ -9,8 +9,4 @@ router.post('/add-offer', function(req,res,next){
 
 });
 
-router.delete('/delete-offer/:id',function(req,res,next){
-
-});
-
 module.exports = router;
